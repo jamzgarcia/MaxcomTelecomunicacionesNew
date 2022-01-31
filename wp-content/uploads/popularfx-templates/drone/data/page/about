@@ -1,0 +1,84 @@
+[pl_row pagelayer-id="yo93me1sq97o13ku"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#f6f6f6ff" ele_padding="60px,0px,60px,0px"]
+[pl_col pagelayer-id="tfggkfvvkaglyzik"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_heading pagelayer-id="dh6jpnt9djja4y2y"  heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" heading_typo="Raleway,25,,,,,Solid,,,,"]
+
+
+
+SOMETHING[/pl_heading]
+[pl_heading pagelayer-id="a1eua9f0omsq4ws5"  heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" heading_typo="Wallpoet,45,,,,,Solid,,Uppercase,,"]
+
+
+
+About Us[/pl_heading]
+[pl_text pagelayer-id="ohrw0nw0zw3y8ui7"  ele_bg_hover_delay="400"]
+
+
+
+<p>Page Maker including versions. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu hendrerit nunc. Proin tempus pulvinar augue, Nemo enim ipsam voluptatem quia voluptas sit as minima rerums quis ultrices urna consectetur non.</p><p>Veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde sed quia consequuntur.</p>[/pl_text]
+[/pl_col]
+[pl_col pagelayer-id="4zh8062nx3djj1ys"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_image pagelayer-id="cly3r3l9uy6cw3kr"  id="{{theme_url}}/images/abt1.jpg" id-size="full" align="center" img_hover="normal" img_filter="0,100,100,0,0,100,100" img_hover_delay="400" img_filter_hover="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400"]
+
+
+
+[/pl_image]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="4c8jos1li17ypcv0"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/abt_bg.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="100px,0px,100px,0px" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col pagelayer-id="7v2nr4s1wss3czfc"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="ln5zgzhey07k8v4u"  counter_start_number="1" counter_end_number="75" animation_duration="2000" counter_align="center" counter_text="Satisfied Clients" counter_text_color="#ffffffff" counter_text_style="Londrina Outline,35,,600,,,Solid,,,," counter_number_color="#ffffffff" counter_number_style="Wallpoet,50,,600,,,Solid,,,," ele_bg_hover_delay="400"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="h84fde59wsvoeoqt"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="20ay4gccyp84o0rv"  counter_start_number="1" counter_end_number="60" animation_duration="2000" counter_align="center" counter_text="Projects Done" counter_text_color="#ffffffff" counter_text_style="Londrina Outline,35,,600,,,Solid,,,," counter_number_color="#ffffffff" counter_number_style="Wallpoet,50,,600,,,Solid,,,," ele_bg_hover_delay="400"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="zo8n1fdhg0c926e6"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="jb6o39luj1rq17kv"  counter_start_number="1" counter_end_number="25" animation_duration="2000" counter_align="center" counter_text="Flight Time" counter_text_color="#ffffffff" counter_text_style="Londrina Outline,35,,600,,,Solid,,,," counter_number_color="#ffffffff" counter_number_style="Wallpoet,50,,600,,,Solid,,,," ele_bg_hover_delay="400"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="sl9mz1ddjwz5ual9"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="omw763d59tkm41aw"  counter_start_number="1" counter_end_number="2160" animation_duration="2000" counter_align="center" counter_text="4K Resolution" counter_text_color="#ffffffff" counter_text_style="Londrina Outline,35,,600,,,Solid,,,," counter_number_color="#ffffffff" counter_number_style="Wallpoet,50,,600,,,Solid,,,," ele_bg_hover_delay="400"]
+[/pl_counter]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="ul4rg2o4xhql5agg"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="60px,0px,60px,0px"]
+[pl_col pagelayer-id="mj1hsvwprcnl8ujm"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="99i7rg7csdco0fx4"  heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,25,,,,,Solid,,,,"]
+
+
+OUR[/pl_heading]
+[pl_heading pagelayer-id="z0for5nacyonc1f3"  heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" align="center" heading_typo="Wallpoet,50,,,,,Solid,,,,"]
+
+
+TEAM[/pl_heading]
+[pl_inner_row pagelayer-id="pcxg12nbd97dgq07"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_inner_col pagelayer-id="kc88gzfnobavoi3q"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_service pagelayer-id="g3hc5av43axirzw1"  service_image="{{theme_url}}/images/team1.jpg" service_image_size="full" service_alignment="left" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="DAISY" service_title_spacing="0,0,10,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Wallpoet,30,,500,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_img_alignment="left" service_content_spacing="0,0,0,10"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="31nl8zd50sb2zbh3"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_service pagelayer-id="z32mueilui9xbza8"  service_image="{{theme_url}}/images/team2.jpg" service_image_size="full" service_alignment="left" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="DAISY" service_title_spacing="0,0,10,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Wallpoet,30,,500,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_img_alignment="left" service_content_spacing="0,0,0,10"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s[/pl_service]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="plymprtsc9g3a41f"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_inner_col pagelayer-id="80oawwa79uzmf0qi"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_service pagelayer-id="oqfsr0dovmxentqi"  service_image="{{theme_url}}/images/team3.jpg" service_image_size="full" service_alignment="left" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="NICOLAS" service_title_spacing="0,0,10,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Wallpoet,30,,500,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_img_alignment="left" service_content_spacing="0,0,0,10"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="m7mdc1gld7sqlc37"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_service pagelayer-id="3ebjqmfccvd7jk9k"  service_image="{{theme_url}}/images/team4.jpg" service_image_size="full" service_alignment="left" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="VALER" service_title_spacing="0,0,10,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Wallpoet,30,,500,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_img_alignment="left" service_content_spacing="0,0,0,10"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s[/pl_service]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]

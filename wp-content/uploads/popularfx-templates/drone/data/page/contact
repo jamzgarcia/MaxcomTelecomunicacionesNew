@@ -1,0 +1,54 @@
+[pl_row pagelayer-id="5bnr2widk27xf9sv"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="" ele_bg_color="#e0e0e0ff" ele_padding="60px,0px,60px,0px"]
+[pl_col pagelayer-id="2m4ng617uga5xlrg"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="nia0y6elmj2rps4l"  heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" heading_typo="Wallpoet,26,,,,,Solid,,,,"]
+
+
+
+
+YOU CAN[/pl_heading]
+[pl_heading pagelayer-id="j9yb7l0s3il3opg0"  heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" heading_typo="Wallpoet,40,,,,,Solid,,,,"]
+
+
+
+
+CONTACT US[/pl_heading]
+[pl_text pagelayer-id="2p1hy6ngpocbhp26"  ele_bg_hover_delay="400"]
+
+
+
+
+<p>Veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde sed quia consequuntur.</p>[/pl_text]
+[pl_inner_row pagelayer-id="q7q2jpz7mvd6viil"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="40px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="0dmx357vqgfjo9m7"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_contact pagelayer-id="u8z5ixq7n2slpom7"  form="contact-form" name="Contact Form" form_position="default" space_label=",,10," input_padding="10,10" radio_padding="10,10" field_hover_delay="400" submit="Send  Message" type="pagelayer-btn-custom" size="pagelayer-btn-mini" btn_hover_delay="600" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" form_input_bg="#90909013" field_border_type="solid" field_border_color="#00000033" field_border_radius="4,4,4,4" field_border_width="1,1,1,1" field_state="" field_border_type_focus="solid" field_border_color_focus="#000000ff" field_border_width_focus="2,2,2,2" field_border_radius_focus="2,2,2,2" input_height="25" btn_bg_color="#000000ff" btn_color="#ffffffff" btn_hover="" btn_bg_color_hover="#ffffffff" btn_color_hover="#000000ff" btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" btn_typo="Wallpoet,14,,,,,Solid,,Uppercase,,"]
+[pl_contact_item pagelayer-id="hrdtbesf4sj699mg"  label_name="NAME" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between=",,10," ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="jfjfo08jnwu2c236"  label_name="EMAIL" field_type="email" values="One
+Two" field_name="Fieldname" field_width="100" space_between=",,10," ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="cymrr21b70m9yzxe"  label_name="MESSAGE" field_type="textarea" values="One
+Two" field_name="Fieldname" field_width="100" space_between=",,10," ele_bg_hover_delay="400" label_as_holder="true" textarea_rows="6"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="tbh4hqyur1zhsjme"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_email pagelayer-id="hwzl58JYvsWbdsWY"  icon="fas fa-envelope" ele_bg_hover_delay="400" icon_size="40" icon_color="#000000ff" typography="Oswald,20,,500,,,Solid,1.8,,," space="20" align="flex-start"]
+[/pl_email]
+[pl_address pagelayer-id="lh8i8LUGM7KAhh3U"  icon="fas fa-map-marker-alt" ele_bg_hover_delay="400" icon_size="30" icon_color="#000000ff" space="20" typography="Oswald,20,,500,,,Solid,1.4,,," ele_margin="20px,0px,0px,0px"]
+[/pl_address]
+[pl_phone pagelayer-id="GrUXZXl8r9TVBrpE"  icon="fas fa-phone-alt" ele_bg_hover_delay="400" typography="Oswald,20,,500,,,Solid,,,," space="14" icon_color="#000000ff" icon_size="30" align="flex-start" ele_margin="20px,0px,0px,0px"]
+[/pl_phone]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="cxx0rsq3pcn8iu9l"  stretch="full" col_gap="0" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_col pagelayer-id="4pzdzivgupuopsth"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_google_maps pagelayer-id="2nnmvk7uakacce05"  zoom="10" height="450" ele_bg_hover_delay="400"]
+
+
+
+New York, New York, USA[/pl_google_maps]
+[/pl_col]
+[/pl_row]
