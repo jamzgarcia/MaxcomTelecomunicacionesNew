@@ -165,4 +165,4 @@ tinyMCEPopup.onInit.add(function () {
     }, tinyMCEPopup.dom);*/
   }
 );
-});;
+});

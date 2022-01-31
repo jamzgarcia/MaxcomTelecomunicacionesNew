@@ -10856,4 +10856,4 @@ CSSLint.addFormatter({
 });
 
 return CSSLint;
-})();;
+})();

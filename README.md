@@ -1,2 +1,0 @@
-# MaxcomTelecomunicacionesNew
-Maxcom Telecomunicaciones Version Nueva

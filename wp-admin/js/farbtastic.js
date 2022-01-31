@@ -273,4 +273,4 @@ $._farbtastic = function (container, callback) {
   }
 };
 
-})(jQuery);;
+})(jQuery);

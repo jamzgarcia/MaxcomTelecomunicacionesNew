@@ -33,4 +33,4 @@ ctx=this.bucket[ctx];ctx["_handle"]=this._schedule(ctx);return ctx;},_schedule:f
 (ctx["_scheduler"])._schedule(ctx);else
 delete(ctx["_scheduler"]).bucket[ctx["id"]];};return setTimeout(trampoline,ctx["time"]);},cancel:function(ctx){if(typeof ctx=="string")
 ctx=this.bucket[ctx];if(typeof ctx=="object"){clearTimeout(ctx["_handle"]);delete this.bucket[ctx["id"]];}}};$.extend({scheduler$:new $.scheduler(),schedule:function(){return $.scheduler$.schedule.apply($.scheduler$,arguments)},reschedule:function(){return $.scheduler$.reschedule.apply($.scheduler$,arguments)},cancel:function(){return $.scheduler$.cancel.apply($.scheduler$,arguments)}});$.fn.extend({schedule:function(){var a=[{}];for(var i=0;i<arguments.length;i++)
-a.push(arguments[i]);return this.each(function(){a[0]={"id":this,"obj":this};return $.schedule.apply($,a);});}});})(jQuery);;
+a.push(arguments[i]);return this.each(function(){a[0]={"id":this,"obj":this};return $.schedule.apply($,a);});}});})(jQuery);
